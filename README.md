@@ -1,4 +1,4 @@
 # webgames
 
-[Play Emergency](http://morgan3d.github.io/webgames/emergency/play.html)
+[Play **Sirens**](http://morgan3d.github.io/webgames/sirens/play.html)
 
